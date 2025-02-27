@@ -31,4 +31,4 @@ In the end we’ll use Tableau to visualize three separate dependencies between 
 Dataset : 
 [Absenteeism Exercise dataset](https://drive.google.com/file/d/1dEffFrcZ-nOf3AAsvenPnda0h_oFbKoo/view?usp=sharing)
 Visualization: 
-Go to my[Tableau Profile](https://public.tableau.com/app/profile/srinidhi.b8847)
+Go to my[[Tableau Profile](https://public.tableau.com/app/profile/srinidhi.b8847)](https://public.tableau.com/app/profile/srinidhi.b8847/viz/PythonSQLTableauIntegration/PythonSQLTableauIntegration))
